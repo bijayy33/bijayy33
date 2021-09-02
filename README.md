@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 My other github urls:
-https://github.com/bijayy33
+https://github.com/bijayy
 https://github.com/office-github
 
 
